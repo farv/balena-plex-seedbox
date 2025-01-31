@@ -17,7 +17,7 @@ Quickest and easiest way to get [Plex](https://www.plex.tv) and friends (Radarr,
 
 1. Click the deploy with balena button below:
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/maggie0002/balena-plex-seedbox)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/balena-io-experimental/balena-plex-seedbox)
 
 2. Select your device and name for your fleet
 
@@ -92,4 +92,4 @@ Enjoy!
 
 ## Contributing
 
-Contributions are very welcome, both in terms of fixes and improvements. Ideas are also welcome in the [discussions](https://github.com/maggie0002/balena-plex-seedbox/discussions) section.
+Contributions are very welcome, both in terms of fixes and improvements. Ideas are also welcome in the [discussions](https://github.com/balena-io-experimental/balena-plex-seedbox/discussions) section.
